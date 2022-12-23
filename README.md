@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irzants
 - 👀 I’m interested in gaming industry and data engineer
-- 🌱 I’m currently learning data analyst, unity, and software tester
+- 🌱 I’m currently learning data analyst, game programmer, game designer and software tester
 - 💞️ I’m looking to collaborate on startup which make me upgrading my skill
 - 📫 How to reach me https://linktr.ee/irzants
 
